@@ -1,6 +1,8 @@
-# minimalin ![Travis build](https://api.travis-ci.org/groyoh/minimalin.svg?branch=master)
+# minimalin 2
 
-[![banner](design/store/marketing-banner.png)](https://apps.getpebble.com/en_US/application/56f93a5361a01637e5000036)
+![banner](design/store/marketing-banner.png)
+
+Minimalin 2 is a fork of the original Minimalin with minimal changes made to keep it working, as Rawgit, where the original config page was hosted, has since shut down.
 
 Minimalin is a fully customizable watchface that blends analog and digital for a modern and elegant look. <br><br>
 Minimalin uses Nupe, a custom font with numbers and icons, optimized with bitmap mapping to perfectly fit the pixel grid of the Pebble watch.
@@ -14,9 +16,9 @@ Some key features of Minimalin:
 * Bluetooth disconnected icon (pick your favorite)
 * Rainbow hand :rainbow:
 
-Go and grab it [here](https://apps.getpebble.com/en_US/application/56f93a5361a01637e5000036).
+Go and grab it here (link to come).
 
-[![Preview](design/minimalin_preview.png)](https://apps.getpebble.com/en_US/application/56f93a5361a01637e5000036)
+![Preview](design/minimalin_preview.png)
 
 ## License
 
@@ -29,8 +31,6 @@ Go and grab it [here](https://apps.getpebble.com/en_US/application/56f93a5361a01
 * [Slate](https://github.com/pebble/slate/blob/master/LICENSE)
 
 ## Contributing
-If you would like a new feature, please comment on https://github.com/groyoh/minimalin/issues/69 and we'll see what we can do.
-
 If you would like to contribute, that's awesome! But we would like you to follow these rules:
 
 Check if an issue is already created for the issue/feature that you'd like to work on. If you'd like to work on a feature, please create an issue first and describe what you'd like to do. If your changes impact the design of the watchface or the configuration page, please provide designs and/or screenshots of your idea.
@@ -40,4 +40,4 @@ This way we'll be able to discuss the idea and see if it matches our vision befo
 
 Thanks to [OpenWeatherMap](http://openweathermap.org/) for providing us with a free API key.
 
-Many thanks to [RawGit](https://rawgit.com/) for providing a free CDN for projects hosted on Github. You're awesome!
+All credit goes to [Gringer Apps](https://github.com/GringerApps) for creating the original [Minimalin](https://github.com/GringerApps/minimalin). Donate to them [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJYBKJHT2EXT4).
