@@ -1,6 +1,6 @@
 {
   "version": "1.7.0",
-  "author": "Gringer Apps",
+  "author": "GR Design",
   "private": true,
   "dependencies": {},
   "keywords": [
@@ -55,7 +55,7 @@
       "AppKeyBatteryDisplayedAt": 20
     },
     "enableMultiJS": false,
-    "displayName": "Minimalin",
+    "displayName": "Minimalin 2",
     "watchapp": {
       "onlyShownOnCommunication": false,
       "hiddenApp": false,
@@ -73,5 +73,5 @@
       "health"
     ]
   },
-  "name": "Minimalin"
+  "name": "Minimalin 2"
 }
