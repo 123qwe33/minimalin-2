@@ -40,4 +40,4 @@ This way we'll be able to discuss the idea and see if it matches our vision befo
 
 Thanks to [OpenWeatherMap](http://openweathermap.org/) for providing us with a free API key.
 
-All credit goes to [Gringer Apps](https://github.com/GringerApps) for creating the original [Minimalin](https://github.com/GringerApps/minimalin). Donate to them [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJYBKJHT2EXT4).
+All credit goes to [Gringer Apps](https://github.com/GringerApps) for creating the original [Minimalin](https://github.com/GringerApps/minimalin). I definitely encourage anyone to drop them a donation [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJYBKJHT2EXT4).
